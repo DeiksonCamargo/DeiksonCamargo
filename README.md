@@ -3,9 +3,10 @@
 
 Bem-vindos!
 
-Sou um estudante de Ciência de Dados,  adoro encarar desafios e acredito que cada obstáculo é uma oportunidade para aprender e crescer.
+Sou um estudante de Ciência de Dados, adoro encarar desafios e acredito que cada obstáculo é uma oportunidade para aprender e crescer.
 
-Meu portifólio possui projetos com soluções criativas e inovadoras, onde aplico técnicas avançadas de algoritmos de Machine Learning para extrair insights valiosos dos dados. 
+
+No portifólio você vai encontrar projetos com soluções criativas e inovadoras, onde aplico técnicas de modelagem, visualização, análise, extração e algoritmos de Machine Learning para extrair insights valiosos dos dados. 
 Estou sempre em busca de maneiras de aprimorar minhas habilidades e enfrentar novos desafios com entusiasmo e a mente sedenta por conhecimento.
  
 
@@ -26,20 +27,19 @@ Estou sempre em busca de maneiras de aprimorar minhas habilidades e enfrentar no
 
 ![edit-food-market-logo](https://github.com/DeiksonCamargo/DeiksonCamargo/assets/104236701/f539c178-0200-475f-b0c1-715f05cb1809)
 
-A empresa All in One Place é uma empresa de outlet multimarcas que comercializa produtos de segunda linha de diversas marcas a um preço menor por meio de e-commerce. Em apenas um ano de operação, a equipe de marketing percebeu que alguns clientes compram produtos mais caros com alta frequência e contribuem com uma parcela significativa do faturamento da empresa. Este projeto visa determinar quem são os clientes elegíveis para participar do **customer Hight Value**. Assim que essa lista estiver pronta, a equipe de Marketing realizará uma sequência de ações personalizadas e exclusivas para esse grupo de pessoas para aumentar suas vendas e frequência de compra. A solução final responde a perguntas de negócios, valida hipóteses de negócios, cria um painel de relatórios.
-
+A Curry Company é uma empresa de tecnologia que desenvolveu um aplicativo para conectar restaurantes, entregadores e clientes. O aplicativo permite que os clientes façam pedidos de refeições em restaurantes cadastrados e recebam a entrega em suas casas por meio de entregadores também cadastrados. A empresa lida com uma grande quantidade de dados, como informações de entregas, tipos de pedidos, condições climáticas e avaliações dos entregadores. No entanto, o CEO não possui uma visão completa dos principais indicadores-chave de desempenho (KPIs) de crescimento da empresa. Para solucionar isso, é necessário ter uma ferramenta que organize os principais KPIs estratégicos em um único lugar, permitindo que o CEO consulte essas informações e tome decisões importantes de forma simples. Alguns dos KPIs de crescimento que o CEO deseja acompanhar incluem o número de entregas, o número de restaurantes e entregadores cadastrados, e o nível de satisfação dos clientes.
 
 ## [Rossmann Sales](https://github.com/DeiksonCamargo/rossmann_sales)
 
 ![edit-rossmann](https://github.com/DeiksonCamargo/DeiksonCamargo/assets/104236701/52034e12-a53c-4302-addf-c55ec85fafab)
 
-A Rossmann é uma empresa que opera mais de 3.000 drogarias em 7 países europeus. Sua gama de produtos inclui até 21.700 itens e pode variar dependendo do tamanho da loja e da localização. Os gerentes de loja da Rossmann precisam de **previsões diárias de vendas com até seis semanas de antecedência** para planejar os investimentos em infraestrutura em suas lojas (as vendas das próximas seis semanas serão altas o suficiente para equilibrar o investimento em infraestrutura?). A solução final para esse problema é um bot do Telegram onde o usuário só precisa digitar o número da loja e o bot responderá rapidamente a previsão de vendas para essa determinada loja nas próximas seis semanas.
+A Rossmann é uma empresa de drogarias presente em sete países europeus, com mais de 3.000 lojas. Seu amplo catálogo de produtos abrange até 21.700 itens, variando de acordo com o tamanho e a localização de cada loja. Para auxiliar os gerentes de loja no planejamento de investimentos em infraestrutura, é essencial obter previsões diárias de vendas com até seis semanas de antecedência. Com o objetivo de resolver essa necessidade, foi desenvolvido um bot no aplicativo Telegram. Ao informar o número da loja, o bot fornece de forma rápida a previsão de vendas para as próximas seis semanas, permitindo avaliar se o investimento em infraestrutura será equilibrado com as vendas esperadas.
  
 
 ## [Cross Sell Health Insurance](https://github.com/DeiksonCamargo/health_insurance)
 
 ![edit-health-insurance](https://github.com/DeiksonCamargo/DeiksonCamargo/assets/104236701/c94fe2a6-8459-4ab9-ad8f-4b6e420e45ae)
 
-A Insurance All é uma seguradora de saúde e sua equipe de produtos está analisando a possibilidade de oferecer um novo produto, seguro de automóvel, para seus clientes de planos de saúde. Semelhante ao seu seguro saúde, os clientes deste novo plano de seguro teriam que pagar um plano anual para serem segurados pela Seguros Todos em caso de eventual acidente ou dano automobilístico. Neste projeto o objetivo é **desenvolver um algoritmo de Machine Learning que classifica os clientes interessados** possibilitando uma abordagem mais assertiva do time de vendas.
+A Insurance All é uma seguradora de saúde que está considerando expandir sua oferta de produtos para incluir um seguro de automóvel destinado aos seus clientes de planos de saúde. Para isso, a equipe de produtos está trabalhando no desenvolvimento de um algoritmo de Machine Learning que visa classificar os clientes interessados nesse novo seguro. A ideia é utilizar esse algoritmo para uma abordagem mais precisa por parte da equipe de vendas, permitindo que eles identifiquem os clientes mais propensos a adquirir o seguro de automóvel e ofereçam o produto de forma mais direcionada. Os clientes interessados seriam solicitados a pagar uma taxa anual para se beneficiarem da cobertura de seguro em casos de acidentes ou danos automobilísticos.
 
 
