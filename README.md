@@ -21,7 +21,7 @@ Sou um profissional da área de dados com foco no desenvolvimento de soluções 
 
 ## [Curry Company](https://github.com/DeiksonCamargo/curry_company)
 
-![food-market-logo](https://github.com/DeiksonCamargo/DeiksonCamargo/assets/104236701/53ab9128-45da-41b8-b75c-49a99f0a82c4)
+![edit-food-market-logo](https://github.com/DeiksonCamargo/DeiksonCamargo/assets/104236701/f539c178-0200-475f-b0c1-715f05cb1809)
 
 A empresa All in One Place é uma empresa de outlet multimarcas que comercializa produtos de segunda linha de diversas marcas a um preço menor por meio de e-commerce. Em apenas um ano de operação, a equipe de marketing percebeu que alguns clientes compram produtos mais caros com alta frequência e contribuem com uma parcela significativa do faturamento da empresa. Este projeto visa determinar quem são os clientes elegíveis para participar do **customer Hight Value**. Assim que essa lista estiver pronta, a equipe de Marketing realizará uma sequência de ações personalizadas e exclusivas para esse grupo de pessoas para aumentar suas vendas e frequência de compra. A solução final responde a perguntas de negócios, valida hipóteses de negócios, cria um painel de relatórios.
 
@@ -35,7 +35,7 @@ A Rossmann é uma empresa que opera mais de 3.000 drogarias em 7 países europeu
 
 ## [Cross Sell Health Insurance](https://github.com/DeiksonCamargo/health_insurance)
 
-![health-insurance](https://github.com/DeiksonCamargo/DeiksonCamargo/assets/104236701/6437be63-e90d-4cac-95b1-a45fb108eda0)
+![edit-health-insurance](https://github.com/DeiksonCamargo/DeiksonCamargo/assets/104236701/c94fe2a6-8459-4ab9-ad8f-4b6e420e45ae)
 
 A Insurance All é uma seguradora de saúde e sua equipe de produtos está analisando a possibilidade de oferecer um novo produto, seguro de automóvel, para seus clientes de planos de saúde. Semelhante ao seu seguro saúde, os clientes deste novo plano de seguro teriam que pagar um plano anual para serem segurados pela Seguros Todos em caso de eventual acidente ou dano automobilístico. Neste projeto o objetivo é **desenvolver um algoritmo de Machine Learning que classifica os clientes interessados** possibilitando uma abordagem mais assertiva do time de vendas.
 
