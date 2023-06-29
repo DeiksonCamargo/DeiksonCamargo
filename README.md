@@ -3,7 +3,8 @@
 
 Bem-vindos!
 
-Sou um estudante de Ciência de Dados,  adoro encarar desafios e acredito que cada obstáculo é uma oportunidade para aprender e crescer. Meu portfólio de projetos é o reflexo dessa mentalidade animada e sedenta por conhecimento.
+Sou um estudante de Ciência de Dados,  adoro encarar desafios e acredito que cada obstáculo é uma oportunidade para aprender e crescer.
+
 Meu portifólio possui projetos com soluções criativas e inovadoras, onde aplico técnicas avançadas de algoritmos de Machine Learning para extrair insights valiosos dos dados. 
 Estou sempre em busca de maneiras de aprimorar minhas habilidades e enfrentar novos desafios com entusiasmo e a mente sedenta por conhecimento.
  
