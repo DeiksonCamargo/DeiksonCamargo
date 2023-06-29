@@ -28,7 +28,7 @@ A empresa All in One Place é uma empresa de outlet multimarcas que comercializa
 
 ## [Rossmann Sales](https://github.com/DeiksonCamargo/rossmann_sales)
 
-![rossmann](https://github.com/DeiksonCamargo/DeiksonCamargo/assets/104236701/4307e4d7-561f-4744-8b8b-5fbb5d657046)
+![edit-rossmann](https://github.com/DeiksonCamargo/DeiksonCamargo/assets/104236701/a9e497f7-478e-4727-a447-f890a0617268)
 
 A Rossmann é uma empresa que opera mais de 3.000 drogarias em 7 países europeus. Sua gama de produtos inclui até 21.700 itens e pode variar dependendo do tamanho da loja e da localização. Os gerentes de loja da Rossmann precisam de **previsões diárias de vendas com até seis semanas de antecedência** para planejar os investimentos em infraestrutura em suas lojas (as vendas das próximas seis semanas serão altas o suficiente para equilibrar o investimento em infraestrutura?). A solução final para esse problema é um bot do Telegram onde o usuário só precisa digitar o número da loja e o bot responderá rapidamente a previsão de vendas para essa determinada loja nas próximas seis semanas.
  
