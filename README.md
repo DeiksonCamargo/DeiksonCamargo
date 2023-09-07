@@ -11,11 +11,7 @@ Meu nome é Deikson Camargo e sou um estudante de Análise e Desenvolvimento de 
 - ⚽ Sou um grande fã de futebol e adoro assistir jogos.
 - 🎥 Além disso, sou entusiasta de filmes e séries, sempre em busca de novas histórias fascinantes.
 
-<div align="center">
-  <a href="https://github.com/DeiksonCamargo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeiksonCamargo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeiksonCamargo&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 
 
 
