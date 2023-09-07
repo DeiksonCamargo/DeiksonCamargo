@@ -9,7 +9,7 @@ Meu nome é Deikson Camargo e sou um estudante de Análise e Desenvolvimento de 
 - 🐶 Gosto de passear com meu cachorro nas horas vagas para relaxar.
 - 👫 Adoro me reunir com amigos para compartilhar ideias e experiências.
 - ⚽ Sou um grande fã de futebol e adoro assistir jogos.
-- 🎥 Além disso, sou entusiasta de filmes e séries, sempre em busca de novas histórias fascinantes.
+- 🎥 Além disso, sou entusiasta de filmes e séries.
 
 <div align="center">
   <a href="https://github.com/DeiksonCamargo">
