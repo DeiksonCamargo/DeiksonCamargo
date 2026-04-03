@@ -39,7 +39,6 @@ Meu nome é Deikson Camargo e sou um estudante de Análise e Desenvolvimento de 
 
 ## Projetos
 - [Curry Company](https://github.com/DeiksonCamargo/curry_company)
-- [Rossman Sales](https://github.com/DeiksonCamargo/rossmann_sales)
 - [Health Insurance](https://github.com/DeiksonCamargo/health_insurance)
 
 
