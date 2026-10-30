@@ -4,19 +4,16 @@
 Transformo processos manuais e dados espalhados em sistemas, dashboards e automações que a liderança usa para decidir. Vim de 13 anos em manutenção automotiva, e levo dela o hábito de procurar a **causa raiz** do problema, não só o sintoma.
 
 ## Sobre mim
-- 💼 Business Operations Analyst na Advice Company
+- 💼 Business Operations Analyst
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas (UNINTER) e MBA em Data Science e Analytics (USP/Esalq, 2026–2027)
 - 🔧 Meu dia a dia: integração de APIs, automações com n8n, banco de dados, dashboards de performance e IA para processos internos
-- 🎯 Buscando oportunidades em Análise de Dados, BI, Business Operations e Analytics Engineering
+- 🎯 Análise de Dados, Engenharia de IA, Analytics Engineering e Business Operations. 
 - 🐶 Fora do trabalho: livros, futebol, filmes e passeios com meu cachorro
-
-## IA e infraestrutura
-- 🤖 Uso **Claude Code** e **Cursor** para acelerar o desenvolvimento, sempre revisando o que é gerado e entendendo o que vai para produção
-- 🖥️ Mantenho uma **VPS** própria onde rodo [n8n / bots / APIs / o que for], com [Docker / Linux, se aplicável]
 
 ## Stack
 
 **Dados e Python**
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -24,6 +21,7 @@ Transformo processos manuais e dados espalhados em sistemas, dashboards e automa
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 **Banco de dados, automação e integração**
+
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -32,13 +30,17 @@ Transformo processos manuais e dados espalhados em sistemas, dashboards e automa
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 **IA e desenvolvimento**
+
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/VPS_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Estudando agora
+
 - SQL e modelagem dimensional, dbt
-- Estatística, modelagem preditiva e previsão de demanda (MBA)
+- Conceitos de engenharia de dados e engenharia de IA
+- Modelagem preditiva e previsão de demanda (MBA)
 - Text Mining e NLP
-- Power BI
 
 ## Projetos
 - [Curry Company](https://github.com/DeiksonCamargo/curry_company): [uma frase: problema, ferramentas, resultado]
